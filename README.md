@@ -11,5 +11,5 @@
     whm_user
     api_token
 
- ./susandunsus [suspend | unsuspend]
+ ./susandunsus.sh [suspend | unsuspend]
 
